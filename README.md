@@ -3,5 +3,3 @@ Custom website made with HTML, CSS, and JavaScript languages. Contains 11 module
 
 ## Other
 Website Link: https://rvasav26.github.io/intelligence-applications-website/
-
-(Old Link): https://vasavada.website/
